@@ -1,0 +1,45 @@
+{
+    "BotSettings": {
+        "token": "TOKKEN",
+        "owner": "647854114423832596",
+        "prefix": "!",
+        "botStatus": "AngaraLı SOHBET YUVASI",
+        "botVoiceChannelID": "857297041180196955"
+    },
+    "Roles": {
+        "BoyRole1": "815073042223857705",
+        "BoyRole2": "ERKEK ROL 2",
+        "GirlRole1": "815073041633509446",
+        "GirlRole2": "KIZ ROL 2",
+        "Unregister": "815073043129958400",
+        "Registerer": "823965028460789791",
+        "TagRole": "842898974414995458",
+        "Suspicious": "ŞÜPHELİ ROL",
+        "Jail": "821757136736354315"
+    },
+        "Colors": {
+            "Red": "ff0000",
+            "Magenta": "660099",
+            "Black": "000000",
+            "Gold": "ffd700",
+            "Pink": "ffcbdb",
+            "Green": "66ff00",
+            "Yellow": "ffff00"
+    },
+        "ServerSettings": {
+            "ServerName": "SOHBET YUVASI FAMİLY",
+            "ServerID": "923552909248057374",
+            "Tag": "༄ ° Ⓢ Ⓨ•",
+            "UnTag": "༄ ° Ⓢ Ⓨ•"
+    },
+        "Channels": {
+            "RegisterChat": "815073088722567188",
+            "TagLog": "870773091368853586",
+            "Rules": "815073091821895711",
+            "GeneralChat": "815073104005955632"
+        },
+        "Welcome": {
+            "WelcomeChat": "815073088722567188",
+            "WelcomeName": "• İsim |"
+        }
+}
